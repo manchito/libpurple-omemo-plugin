@@ -1,0 +1,4 @@
+# http://editorconfig.org
+
+[README.md]
+max_line_length = 80
