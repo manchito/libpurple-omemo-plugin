@@ -76,7 +76,7 @@ If you have only one Jabber account just open the SQLite DB found under $HOME/.p
 Encryption is disabled by default. To enable it set the value of *encryption* in the table *contacts* to 1. If the table has no entries try restarting Pidgin.
 
 ##### Step three: Trust devices (or not)
-Now you are able to receive encrypted messages. However, in order to send you need to define **for every device of your contact** whether you trust it or not. Go to the table *devices* and set *trust* to 1 (trusted)  or 0 (not trusted) accordingly.
+Now you are able to receive encrypted messages. However, in order to send you need to define **for every device of your contact** whether you trust it or not. Go to the table *devices* and set *trust* to 1 (trusted) or 0 (not trusted) accordingly. Do the same for your own devices.
 
 ## Troubleshooting
 You won't get any feedback from the plug-in in the chat window. If something doesn't work as expected open the Pidgin debug console (Help->Debug window) and filter after *core-mancho-omemo*.
