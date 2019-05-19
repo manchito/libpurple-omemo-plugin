@@ -9,7 +9,7 @@ It allows Pidgin to be OMEMO-compatible with [Conversations](https://conversatio
 
 ## Background
 
-This plug-in was the result of academic research. You can find a couple of thoughts about it as well as OMEMO itself [here](https://userpage.fu-berlin.de/mancho/OMEMO.pdf) (in German).
+This plug-in was the result of academic research. You can find a couple of thoughts about it as well as OMEMO itself [here](https://manchito.github.io/libpurple-omemo-plugin/OMEMO.pdf) (in German).
 
 ## Runtime dependencies
 
